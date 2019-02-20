@@ -1,0 +1,26 @@
+.header {
+  background: #fff;
+  background-color: #D8D8D8;
+  padding: 15px 0;
+  width: 100%;
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
+
+.p {
+	font-size: 18px;
+    font-weight: bold;
+}
+
+.rodape {
+background: #D8D8D8;
+width: 100%;
+height: 50px;
+border-width: thin;
+border-style: solid;
+border-color: black;
+position: absolute;
+bottom: 0;
+left: 0;
+}

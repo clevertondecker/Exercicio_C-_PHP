@@ -1,0 +1,30 @@
+1- Crie o arquivo ‘exercicio.txt’ dentro do diretório ‘/tmp/’ com o seguinte conteúdo:
+Dica: leia sobre o fstream.
+
+
+2- Copie o conteúdo do arquivo '/tmp/exercicio.txt' do exercício anterior, com exceção das linhas que começarem com 'Teste' para o arquivo /home/novo.txt.
+Dica: leia sobre o find e string::npos.
+
+
+3- Testar se um determinado arquivo existe, passando o nome do arquivo por parâmetro em linha de comando, informar na saída do programa ‘Arquivo xxx existe’ ou ‘Arquivo xxx não existe’.
+Dica: leia sobre argc e argv.
+
+
+4- Testar se um determinado diretório existe passando o nome do diretório por parâmetro em linha de comando, informar na saída do programa ‘Arquivo xxx existe’ ou ‘Arquivo xxx não existe’.
+
+
+5- Abrir um arquivo e imprimir o conteúdo dele na tela. Passar por parâmetro em linha de comando o nome do arquivo e o número de linhas que deseja imprimir.
+Dica: leia sobre cout.
+
+
+6- Listar as rotas de rede do servidor usando o comando ‘route -n’. Deverá mostrar como resultado na tela somente os seguintes campos: Destino, Mascara e Interface.
+Dica: leia sobre o find e string::npos e substr e popen.
+
+
+7- Realizar uma consulta qualquer em banco de dados MySQL e mostrar o resultado na tela, se possível a saída deve estar em formato JSON. (veja sobre a library jsonCPP).
+
+
+8- Com base nas informações do arquivo ‘/etc/passwd’, pegar o código do grupo de cada usuário e busca-lo no arquivo ‘/etc/group’. O resultado deve ser escrito no arquivo ‘/tmp/resultado.txt’ no formato ‘usuario -> codigo -> grupo’.
+
+
+9- Abrir o arquivo ‘/tmp/resultado.txt’ e mostrar na tela o resultado (se possível em formato JSON).

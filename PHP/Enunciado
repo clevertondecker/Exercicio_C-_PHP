@@ -1,0 +1,31 @@
+
+
+Olá,
+
+O objetivo aqui é entender um pouco sobre o conhecimento na parte WEB com PHP e MySQL.
+
+Neste caso, preferencialmente desenvolva sem o uso de framework para PHP (Laravel e afins).
+
+
+1- Criar um ambiente WEB acessível através de login e senha.
+
+
+2- Desenvolver opção para deslogar o usuário do sistema.
+
+
+3- Desenvolver utilizando AJAX/retrieve e JQGrid uma página que liste os usuários existentes no sistema (usuários de acesso ao sistema).
+
+
+4- Desenvolver opção para cadastrar usuários no sistema contendo as seguintes informações: Nome, Sobrenome, Login, E-mail e Senha.
+
+
+5- Desenvolver opção para excluir um ou vários usuários selecionados do sistema.
+
+
+6- Desenvolver opção para editar um usuário do sistema.
+
+
+Observações:
+
+É interessante que sejam utilizados estilos nas telas. Tente utilizar o Bootstrap.
+
